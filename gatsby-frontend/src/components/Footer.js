@@ -8,6 +8,9 @@ const Footer = ({ link }) => (
         margin: `0 auto`,
         maxWidth: 960,
         padding: `1.45rem 1.0875rem`,
+        left: '43vw',
+        bottom: '6%',
+        position: 'fixed'
       }}
     >
       <h1 style={{ margin: 0 }}>
